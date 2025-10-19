@@ -8,7 +8,7 @@ The dataset is sourced from the Fashion Product Images Dataset on Kaggle, which 
 📸 Example Outputs
 Input Image	Generated Caption
 
-	![wat](https://github.com/user-attachments/assets/c8822262-0e93-4d82-ab61-740ac547e2b0)
+images/w5.jpg
 start men footwear shoes sports shoes white summer sports nike men air impetus white sports shoes end
 
 	start women accessories jewellery jewellery set gold winter casual estelle women gold jewellery set end
